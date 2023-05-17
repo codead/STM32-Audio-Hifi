@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=LN NewDesignator=TP2
+Change Component Designator: OldDesignator=LP NewDesignator=TP3
+Change Component Designator: OldDesignator=RN NewDesignator=TP4
+Change Component Designator: OldDesignator=RP NewDesignator=TP5
+Added Component: Designator=LCD1(LCD 1.3inch IPS HD)
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=LED_K Pin=LCD1-2
+Added Pin To Net: NetName=3V3 Pin=LCD1-3
+Added Pin To Net: NetName=3V3 Pin=LCD1-4
+Added Pin To Net: NetName=GND Pin=LCD1-5
+Added Pin To Net: NetName=GND Pin=LCD1-6
+Added Pin To Net: NetName=LCD_DC Pin=LCD1-7
+Added Pin To Net: NetName=LCD_CS Pin=LCD1-8
+Added Pin To Net: NetName=STM_SPI1_SCK Pin=LCD1-9
+Added Pin To Net: NetName=STM_SPI1_MOSI Pin=LCD1-10
+Added Pin To Net: NetName=LCD_RST Pin=LCD1-11
+Added Pin To Net: NetName=GND Pin=LCD1-12
+Added Pin To Net: NetName=GND Pin=LCD1-12
+Added Member To Class: ClassName=LCD_Player_V1.1 Member=Component LCD1 LCD 1.3" 240 X 240 IPS DISPLAY

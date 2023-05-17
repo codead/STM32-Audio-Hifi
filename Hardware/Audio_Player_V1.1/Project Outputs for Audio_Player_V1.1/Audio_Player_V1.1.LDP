@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: G:\My Drive\2022\October\Audio_Player_V1.1\Audio_Player_V1.1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=audio_player_v1.1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=audio_player_v1.1-slotholes.txt|DrillLayers=gtl,gbl

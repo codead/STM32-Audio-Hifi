@@ -1,0 +1,3 @@
+../Drivers/Setting/Setting.c:21:6:Setting_Init	16	static
+../Drivers/Setting/Setting.c:82:6:Setting_ToggleEvent	16	static
+../Drivers/Setting/Setting.c:107:6:Setting_SyncEvent	16	static

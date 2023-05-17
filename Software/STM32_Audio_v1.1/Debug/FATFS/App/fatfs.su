@@ -1,0 +1,4 @@
+../FATFS/App/fatfs.c:35:6:MX_FATFS_Init	8	static
+../FATFS/App/fatfs.c:50:7:get_fattime	4	static
+../FATFS/App/fatfs.c:58:9:BSP_SD_Init	16	static
+../FATFS/App/fatfs.c:83:6:ScanSDCard	56	static

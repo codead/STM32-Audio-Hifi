@@ -1,0 +1,2 @@
+../Drivers/Audio/Volume/Volume.c:24:6:HAL_ADC_ConvHalfCpltCallback	0	static
+../Drivers/Audio/Volume/Volume.c:28:6:HAL_ADC_ConvCpltCallback	8	static

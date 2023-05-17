@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LCD_Player_V1.1.PcbDoc   10/11/2022  9:48:12 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LCD_Player_V1.1-RoundHoles.TXT
+ASCII SlotHoles File : LCD_Player_V1.1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             14        PTH        0.00inch (0.00mm)
+T2      26mil (0.65mm)                                            Round             16        PTH        0.00inch (0.00mm)
+T3      34mil (0.851mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T4      39mil (1.001mm)                                           Slot              1         PTH        0.00inch (0.00mm)
+T5      47mil (1.199mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T6      1102mil (28.001mm)                                        Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              37
+
+Total Processing Time (hh:mm:ss) : 00:00:00

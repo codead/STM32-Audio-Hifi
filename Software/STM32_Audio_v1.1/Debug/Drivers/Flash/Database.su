@@ -1,0 +1,5 @@
+../Drivers/Flash/Database.c:15:6:Database_LoadDataSetting	16	static
+../Drivers/Flash/Database.c:33:6:Database_LoadDataMusic	16	static
+../Drivers/Flash/Database.c:47:6:Database_LoadData	8	static
+../Drivers/Flash/Database.c:52:6:Database_SaveDataSetting	24	static
+../Drivers/Flash/Database.c:73:6:Database_SaveDataMusic	16	static

@@ -1,0 +1,5 @@
+../Drivers/BatteryMonitoring/STC3100.c:87:26:STC3100_ReadReg	32	static
+../Drivers/BatteryMonitoring/STC3100.c:58:26:STC3100_WriteReg.part.0.constprop	88	static
+../Drivers/BatteryMonitoring/STC3100.c:106:19:STC3100_Init	24	static
+../Drivers/BatteryMonitoring/STC3100.c:132:6:STC3100_ChargeInit	40	static
+../Drivers/BatteryMonitoring/STC3100.c:293:19:STC3100_Get	24	static

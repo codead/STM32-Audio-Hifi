@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Audio_Player_V1.1.PcbDoc   10/25/2022  11:10:39 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Audio_Player_V1.1-RoundHoles.TXT
+ASCII SlotHoles File : Audio_Player_V1.1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T2      16mil (0.399mm)                                           Round             197       PTH        0.00inch (0.00mm)
+T3      20mil (0.5mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T4      20mil (0.5mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T5      26mil (0.65mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T6      28mil (0.701mm)                                           Round             26        PTH        0.00inch (0.00mm)
+T7      34mil (0.851mm)                                           Round             20        PTH        0.00inch (0.00mm)
+T8      35mil (0.899mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T9      39mil (1.001mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T10     40mil (1.021mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T11     55mil (1.4mm)                                             Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              265
+
+Total Processing Time (hh:mm:ss) : 00:00:00

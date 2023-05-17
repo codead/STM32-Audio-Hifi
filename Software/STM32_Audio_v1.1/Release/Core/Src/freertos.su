@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:143:6:StartDefaultTask	8	static
+../Core/Src/freertos.c:158:6:StartUpdateScreenLCDTask	8	static
+../Core/Src/freertos.c:167:6:StartPlayAudioTask	8	static
+../Core/Src/freertos.c:192:6:StartBatteryMonitoringTask	40	static
+../Core/Src/freertos.c:81:6:vApplicationGetIdleTaskMemory	0	static
+../Core/Src/freertos.c:95:6:MX_FREERTOS_Init	128	static

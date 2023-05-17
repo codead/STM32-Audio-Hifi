@@ -1,0 +1,4 @@
+../Core/Src/sdio.c:33:6:MX_SDIO_SD_Init	0	static
+../Core/Src/sdio.c:56:6:HAL_SD_MspInit	56	static
+../Core/Src/sdio.c:128:6:HAL_SD_MspDeInit	8	static
+../Core/Src/sdio.c:164:9:BSP_SD_Init	16	static

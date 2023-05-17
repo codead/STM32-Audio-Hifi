@@ -1,0 +1,6 @@
+../Drivers/Audio/WM8960/Play_wav.c:62:9:ScanWavefiles	368	static
+../Drivers/Audio/WM8960/Play_wav.c:113:9:Get_WAV_Message	32	static
+../Drivers/Audio/WM8960/Play_wav.c:195:9:Fill_WAV_Buffer	32	static
+../Drivers/Audio/WM8960/Play_wav.c:357:9:PlayWaveFile	48	static,ignoring_inline_asm
+../Drivers/Audio/WM8960/Play_wav.c:493:6:HAL_I2S_TxHalfCpltCallback	0	static
+../Drivers/Audio/WM8960/Play_wav.c:502:6:HAL_I2S_TxCpltCallback	0	static

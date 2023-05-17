@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=LCD1-12
+Added Pin To Net: NetName=GND Pin=LCD1-12
+Change Class Name : Old Net Name=LCD_Player_V1.0 New Net Name=LCD_Player_V1.1

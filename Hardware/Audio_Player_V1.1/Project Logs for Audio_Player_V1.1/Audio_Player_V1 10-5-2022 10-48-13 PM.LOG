@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=U3_Nets Member=ADC_ALERT
+Added Member To Class: ClassName=Power Supply Member=Component C5 220nF
+Added Member To Class: ClassName=Power Supply Member=Component C37 10uF
+Added Member To Class: ClassName=Power Supply Member=Component R26 10k-1%
+Added Member To Class: ClassName=Power Supply Member=Component R27 10k-1%
+Added Member To Class: ClassName=Power Supply Member=Component R28 200k-1%
+Added Member To Class: ClassName=Power Supply Member=Component U2 STC3100IQT
+Added Member To Class: ClassName=Power Supply Member=Component U6 TPS63001

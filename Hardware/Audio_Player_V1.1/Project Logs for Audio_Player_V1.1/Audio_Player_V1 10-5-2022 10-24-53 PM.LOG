@@ -1,0 +1,164 @@
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Pin From Net: NetName=4V4 Pin=C4-2
+Removed Pin From Net: NetName=4V4 Pin=C5-2
+Removed Pin From Net: NetName=3V3 Pin=C7-2
+Removed Pin From Net: NetName=3V3 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=4V4 Pin=C37-2
+Removed Pin From Net: NetName=3V3 Pin=R5-2
+Removed Pin From Net: NetName=CHARGER Pin=R6-1
+Removed Pin From Net: NetName=3V3 Pin=R6-2
+Removed Pin From Net: NetName=3V3 Pin=R26-1
+Removed Pin From Net: NetName=STM_I2C1_SCL Pin=R26-2
+Removed Pin From Net: NetName=3V3 Pin=R27-1
+Removed Pin From Net: NetName=STM_I2C1_SDA Pin=R27-2
+Removed Pin From Net: NetName=3V3 Pin=R28-1
+Removed Pin From Net: NetName=ADC_ALERT Pin=R28-2
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=3V3 Pin=U2-2
+Removed Pin From Net: NetName=3V3 Pin=U2-2
+Removed Pin From Net: NetName=4V4 Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U6-1
+Removed Pin From Net: NetName=ADC_ALERT Pin=U6-2
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Pin From Net: NetName=V_BAT Pin=U6-4
+Removed Pin From Net: NetName=3V3 Pin=U6-7
+Removed Pin From Net: NetName=4V4 Pin=U6-8
+Removed Pin From Net: NetName=STM_I2C1_SDA Pin=U6-9
+Removed Pin From Net: NetName=STM_I2C1_SCL Pin=U6-10
+Removed Member From Class: ClassName=Main Member=C37
+Removed Member From Class: ClassName=Main Member=R26
+Removed Member From Class: ClassName=Main Member=R27
+Removed Member From Class: ClassName=Main Member=R28
+Removed Member From Class: ClassName=Main Member=U6
+Removed Member From Class: ClassName=C8_Nets Member=3V3
+Removed Member From Class: ClassName=R5_Nets Member=3V3
+Removed Member From Class: ClassName=R6_Nets Member=3V3
+Removed Member From Class: ClassName=R28_Nets Member=3V3
+Removed Member From Class: ClassName=U6_Nets Member=3V3
+Removed Member From Class: ClassName=C5_Nets Member=4V4
+Removed Member From Class: ClassName=C37_Nets Member=4V4
+Removed Member From Class: ClassName=U6_Nets Member=4V4
+Removed Member From Class: ClassName=R28_Nets Member=ADC_ALERT
+Removed Member From Class: ClassName=U6_Nets Member=ADC_ALERT
+Removed Member From Class: ClassName=R6_Nets Member=CHARGER
+Removed Member From Class: ClassName=BT1_Nets Member=GND
+Change Component Comment : Designator=C7 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=R5 Old Comment=10k-1% New Comment=1k5-1%
+Change Component Comment : Designator=R6 Old Comment=10k-1% New Comment=1k5-1%
+Change Component Comment : Designator=C4 Old Comment=10uF New Comment=1uF
+Change Component Comment : Designator=C5 Old Comment=100nF New Comment=220nF
+Change Component Designator: OldDesignator=CLK NewDesignator=TP1
+Change Component Designator: OldDesignator=DIO NewDesignator=TP2
+Change Component Designator: OldDesignator=GND NewDesignator=TP3
+Change Component Designator: OldDesignator=RX NewDesignator=TP4
+Change Component Designator: OldDesignator=TX NewDesignator=TP5
+Added Component: Designator=C37(Cap 0603)
+Added Component: Designator=C48(Cap 0603)
+Added Component: Designator=J2(Jump 1mm)
+Added Component: Designator=L1(Inductor 0520)
+Added Component: Designator=LD1(LED)
+Add component (AddParameter): Name = "Name"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=R26(Res 0603)
+Added Component: Designator=R27(Res 0603)
+Added Component: Designator=R28(Res 0603)
+Added Component: Designator=R37(Res 0603)
+Added Component: Designator=R38(Res 2512)
+Added Component: Designator=R39(Res 0603)
+Added Component: Designator=U2(DFN-8 3x3)
+Added Component: Designator=U6(VSON-10 3x3)
+Added Pin To Net: NetName=V_BAT Pin=C4-2
+Added Pin To Net: NetName=4V4 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=3V3 Pin=J2-2
+Added Pin To Net: NetName=CHARGER Pin=LD1-2
+Added Pin To Net: NetName=4V4+ Pin=R5-2
+Added Pin To Net: NetName=4V4+ Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R26-1
+Added Pin To Net: NetName=STM_I2C1_SCL Pin=R26-2
+Added Pin To Net: NetName=3V3 Pin=R27-1
+Added Pin To Net: NetName=STM_I2C1_SDA Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=V_BAT Pin=R37-2
+Added Pin To Net: NetName=GND Pin=R38-2
+Added Pin To Net: NetName=4V4 Pin=R39-2
+Added Pin To Net: NetName=STM_I2C1_SDA Pin=U2-3
+Added Pin To Net: NetName=STM_I2C1_SCL Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=V_BAT Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=4V4 Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-11
+Added Pin To Net: NetName=3V3+ Pin=C37-2
+Added Pin To Net: NetName=3V3+ Pin=C48-2
+Added Pin To Net: NetName=3V3+ Pin=J2-1
+Added Pin To Net: NetName=3V3+ Pin=U6-1
+Added Pin To Net: NetName=3V3+ Pin=U6-10
+Added Net: Name=3V3+
+Added Pin To Net: NetName=BAT_GND Pin=BT1-2
+Added Pin To Net: NetName=BAT_GND Pin=R38-1
+Added Pin To Net: NetName=BAT_GND Pin=U2-6
+Added Net: Name=BAT_GND
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R37-1
+Added Pin To Net: NetName=NetC5_2 Pin=U2-8
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R39-1
+Added Pin To Net: NetName=NetC8_2 Pin=U6-6
+Added Pin To Net: NetName=NetC8_2 Pin=U6-7
+Added Pin To Net: NetName=NetC8_2 Pin=U6-8
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U6-4
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=U6-2
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetLD1_1 Pin=LD1-1
+Added Pin To Net: NetName=NetLD1_1 Pin=R6-1
+Added Net: Name=NetLD1_1
+Added Pin To Net: NetName=NetR28_2 Pin=R28-2
+Added Pin To Net: NetName=NetR28_2 Pin=U2-2
+Added Net: Name=NetR28_2
+Change Class Name : Old Net Name=C4_Nets New Net Name=C7_Nets
+Change Class Name : Old Net Name=U6_Nets New Net Name=U2_Nets
+Added Class: Name=C4_Nets
+Added Class: Name=C48_Nets
+Added Class: Name=J2_Nets
+Added Class: Name=L1_Nets
+Added Class: Name=LD1_Nets
+Added Class: Name=R37_Nets
+Added Class: Name=R38_Nets
+Added Class: Name=R39_Nets
+Added Class: Name=U6_Nets
+Added Member To Class: ClassName=Power Supply Member=Component C37 10uF
+Added Member To Class: ClassName=Power Supply Member=Component C48 10uF
+Added Member To Class: ClassName=Power Supply Member=Component J2 Jump 1mm
+Added Member To Class: ClassName=Power Supply Member=Component L1 2R2uH
+Added Member To Class: ClassName=Power Supply Member=Component LD1 LED
+Added Member To Class: ClassName=Power Supply Member=Component R26 10k-1%
+Added Member To Class: ClassName=Power Supply Member=Component R27 10k-1%
+Added Member To Class: ClassName=Power Supply Member=Component R28 200k-1%
+Added Member To Class: ClassName=Power Supply Member=Component R37 1k-1%
+Added Member To Class: ClassName=Power Supply Member=Component R38 0.05R-1%
+Added Member To Class: ClassName=Power Supply Member=Component R39 100R-1%
+Added Member To Class: ClassName=Power Supply Member=Component U6 TPS63001
+Added Member To Class: ClassName=C37_Nets Member=Wire 3V3+
+Added Member To Class: ClassName=R5_Nets Member=Wire 4V4+
+Added Member To Class: ClassName=R6_Nets Member=Wire 4V4+
+Added Member To Class: ClassName=BT1_Nets Member=Wire BAT_GND
+Added Member To Class: ClassName=U2_Nets Member=Wire BAT_GND
+Added Member To Class: ClassName=R28_Nets Member=Wire GND
+Added Member To Class: ClassName=C5_Nets Member=Wire NetC5_2
+Added Member To Class: ClassName=U2_Nets Member=Wire NetC5_2
+Added Member To Class: ClassName=C8_Nets Member=Wire NetC8_2
+Added Member To Class: ClassName=R6_Nets Member=Wire NetLD1_1
+Added Member To Class: ClassName=R28_Nets Member=Wire NetR28_2
+Added Member To Class: ClassName=U2_Nets Member=Wire NetR28_2
+Added Room: Name=Main
+Added Room: Name=Music Player
+Added Room: Name=Power Supply

@@ -1,0 +1,6 @@
+../Drivers/LCD/ST7789/Display.c:33:6:LCD_BackLight_On	8	static
+../Drivers/LCD/ST7789/Display.c:37:6:LCD_BackLight_Off	8	static
+../Drivers/LCD/ST7789/Display.c:41:6:ListMusic_Init	16	static
+../Drivers/LCD/ST7789/Display.c:69:6:ListLCDScreen_RollDown	16	static
+../Drivers/LCD/ST7789/Display.c:108:6:ListLCDScreen_RollUp	16	static
+../Drivers/LCD/ST7789/Display.c:153:6:Display_Update	24	static

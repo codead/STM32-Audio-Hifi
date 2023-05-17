@@ -1,0 +1,6 @@
+../Drivers/Utilities/RingBuffer.c:13:9:RingBuffer_Init	24	static
+../Drivers/Utilities/RingBuffer.c:22:9:RingBuffer_Write	16	static
+../Drivers/Utilities/RingBuffer.c:32:9:RingBuffer_Read	16	static
+../Drivers/Utilities/RingBuffer.c:43:9:RingBuffer_Flush	16	static
+../Drivers/Utilities/RingBuffer.c:52:9:RingBuffer_Backup	16	static
+../Drivers/Utilities/RingBuffer.c:58:9:RingBuffer_Recovery	16	static

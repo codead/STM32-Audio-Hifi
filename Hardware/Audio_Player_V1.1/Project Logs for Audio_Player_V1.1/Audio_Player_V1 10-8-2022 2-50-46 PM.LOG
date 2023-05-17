@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3V3+ Pin=J2-1
+Removed Pin From Net: NetName=3V3 Pin=J2-2
+Removed Member From Class: ClassName=Power Supply Member=J2
+Added Component: Designator=JP1(Jump 1mm)
+Added Pin To Net: NetName=3V3+ Pin=JP1-1
+Added Pin To Net: NetName=3V3 Pin=JP1-2
+Change Class Name : Old Net Name=J2_Nets New Net Name=JP1_Nets
+Added Member To Class: ClassName=Power Supply Member=Component JP1 Jump 1mm
+Added Member To Class: ClassName=Main Member=Component U8 SX1509B

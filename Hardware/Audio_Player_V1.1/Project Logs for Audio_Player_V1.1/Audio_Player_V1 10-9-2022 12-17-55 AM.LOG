@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=   NewDesignator=C3
+Change Component Designator: OldDesignator=  NewDesignator=C19
+Change Component Designator: OldDesignator=   NewDesignator=LD1
+Added Member To Class: ClassName=Power Supply Member=Component C3 10uF
+Added Member To Class: ClassName=Main Member=Component C19 100nF
+Added Member To Class: ClassName=Power Supply Member=Component LD1 LED

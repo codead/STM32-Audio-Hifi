@@ -1,0 +1,11 @@
+Added Component: Designator=U7(WSON 6x5)
+Added Pin To Net: NetName=FLASH_CS Pin=U7-1
+Added Pin To Net: NetName=STM_SPI1_MISO Pin=U7-2
+Added Pin To Net: NetName=3V3 Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=STM_SPI1_MOSI Pin=U7-5
+Added Pin To Net: NetName=STM_SPI1_SCK Pin=U7-6
+Added Pin To Net: NetName=3V3 Pin=U7-7
+Added Pin To Net: NetName=3V3 Pin=U7-8
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Member To Class: ClassName=Main Member=Component U7 W25Qxx

@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Audio_Player_V1.1.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Audio_Player_V1.1.SchDoc|Designator=Main|SchDesignator=Main|FileName=MCU.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Audio_Player_V1.1.SchDoc|Designator=Music Player|SchDesignator=Music Player|FileName=Audio.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Audio.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Audio_Player_V1.1.SchDoc|Designator=Power Supply|SchDesignator=Power Supply|FileName=PSU.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PSU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

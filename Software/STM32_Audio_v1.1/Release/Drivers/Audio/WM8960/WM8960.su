@@ -1,0 +1,6 @@
+../Drivers/Audio/WM8960/WM8960.c:37:9:WM8960_Write_Reg	32	static
+../Drivers/Audio/WM8960/WM8960.c:56:10:WM8960_Read_Reg	0	static
+../Drivers/Audio/WM8960/WM8960.c:145:9:WM8960_Init_PLL	24	static
+../Drivers/Audio/WM8960/WM8960.c:215:9:WM8960_Init	16	static
+../Drivers/Audio/WM8960/WM8960.c:301:10:AUDIO_Play	32	static
+../Drivers/Audio/WM8960/WM8960.c:288:10:AudioFlashPlay	8	static

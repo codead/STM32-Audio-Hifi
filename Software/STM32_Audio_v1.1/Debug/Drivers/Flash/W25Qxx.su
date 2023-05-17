@@ -1,0 +1,10 @@
+../Drivers/Flash/W25Qxx.c:21:13:W25Qxx_Reset	16	static
+../Drivers/Flash/W25Qxx.c:36:16:W25Qxx_GetStatus	16	static
+../Drivers/Flash/W25Qxx.c:62:9:W25Qxx_Init	8	static
+../Drivers/Flash/W25Qxx.c:75:9:W25Qxx_WriteEnable	16	static,ignoring_inline_asm
+../Drivers/Flash/W25Qxx.c:108:6:W25Qxx_Read_ID	24	static
+../Drivers/Flash/W25Qxx.c:128:9:W25Qxx_Read	32	static
+../Drivers/Flash/W25Qxx.c:157:9:W25Qxx_Write	48	static,ignoring_inline_asm
+../Drivers/Flash/W25Qxx.c:235:9:W25Qxx_Erase_Sector	24	static,ignoring_inline_asm
+../Drivers/Flash/W25Qxx.c:273:9:W25Qxx_Erase_Chip	16	static,ignoring_inline_asm
+../Drivers/Flash/W25Qxx.c:304:6:W25Qxx_Test	80	static

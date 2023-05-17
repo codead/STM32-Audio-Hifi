@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Audio_Player_V1.1.PrjPcb]
+   Generated File[Audio_Player_V1.1-RoundHoles.TXT]
+   Generated File[Audio_Player_V1.1-SlotHoles.TXT]
+   Generated File[Audio_Player_V1.1.LDP]
+   Generated File[Audio_Player_V1.1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:10:39 PM On 10/25/2022

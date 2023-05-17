@@ -1,0 +1,11 @@
+../Drivers/BatteryMonitoring/STC3100.c:72:26:STC3100_WriteReg	96	static
+../Drivers/BatteryMonitoring/STC3100.c:101:26:STC3100_ReadReg	32	static
+../Drivers/BatteryMonitoring/STC3100.c:120:19:STC3100_Init	16	static
+../Drivers/BatteryMonitoring/STC3100.c:153:6:STC3100_ChargeInit	56	static
+../Drivers/BatteryMonitoring/STC3100.c:178:26:STC3100_ReadVoltage	24	static
+../Drivers/BatteryMonitoring/STC3100.c:207:26:STC3100_ReadID	24	static
+../Drivers/BatteryMonitoring/STC3100.c:220:26:STC3100_ReadCurrent	32	static
+../Drivers/BatteryMonitoring/STC3100.c:245:26:STC3100_ReadRosc	32	static
+../Drivers/BatteryMonitoring/STC3100.c:270:26:STC3100_ReadTemperature	32	static
+../Drivers/BatteryMonitoring/STC3100.c:297:9:STC3100_ReadChargeStatus	16	static
+../Drivers/BatteryMonitoring/STC3100.c:314:19:STC3100_Get	16	static

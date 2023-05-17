@@ -1,0 +1,4 @@
+Added Component: Designator=TP6(TP)
+Added Pin To Net: NetName=GND Pin=TP6-1
+Added Class: Name=TP6_Nets
+Added Member To Class: ClassName=Main Member=Component TP6 TP
